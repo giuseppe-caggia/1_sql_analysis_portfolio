@@ -1,2 +1,1 @@
-I am Giuseppe 
-1_sql_analysis_portfolio
+I am Giuseppe and am passionate about data analysis. 
