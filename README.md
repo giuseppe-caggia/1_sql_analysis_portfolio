@@ -7,7 +7,7 @@ My fascination with data analysis was ignited when I discovered its role in unra
 In our data-driven era, understanding the numbers behind the scenes has never been more crucial. From uncovering trends that shape industries to providing evidence-based solutions, data analysis empowers us to make informed choices that drive innovation and progress.
 
 📊 My Toolbox:
-I wield a diverse toolkit that includes SQL, EXCEL, PowerBI, TABLEAUX. Whether it's a spreadsheet, a database, or a complex dataset, I relish the opportunity to apply my skills and generate insights that matter.
+I wield a diverse toolkit that includes SQL, EXCEL, PowerBI, TABLEAU. Whether it's a spreadsheet, a database, or a complex dataset, I relish the opportunity to apply my skills and generate insights that matter.
 
 🌟 Beyond the Numbers:
 While data is at the heart of my journey, I recognize the ethical responsibilities that come with it. Striving for unbiased analysis and ensuring data privacy are principles I uphold in every endeavor.
